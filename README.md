@@ -26,6 +26,20 @@ The dataset contains the following features:
 
 ---
 
+## 🛠️ Tech Stack
+
+- **Python**
+- **Jupyter Notebooks**
+- **Pandas**
+- **Numpy**
+- **Scikit-learn**
+- **NLTK**
+- **Matplotlib & Seaborn**
+- **Transformers (Hugging Face)**
+- **PyTorch**
+
+---
+
 ## 📂 Project Structure
 
 ```bash
