@@ -28,16 +28,13 @@ The dataset contains the following features:
 
 ## 🛠️ Tech Stack
 
-- **Python**
-- **Jupyter Notebooks**
-- **Pandas**
-- **Numpy**
-- **Scikit-learn**
-- **NLTK**
-- **Matplotlib & Seaborn**
-- **Transformers (Hugging Face)**
-- **TensorFlow**
-- **PyTorch**
+- **Language:** Python
+- **Data Handling:** Pandas
+- **Numerical Computing:** Numpy
+- **Data Visualization:** Matplotlib, Seaborn, WordCloud
+- **Text Processing:** NLTK
+- **Machine Learning Algorithms:** Scikit-learn, XGBoost, LightGBM, CatBoost
+- **Deep Learning Frameworks:** TensorFlow, PyTorch, Hugging Face Transformers
 
 ---
 
